@@ -6,6 +6,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     return a * b
+    print(">>> Super Calculator: Version B <<<")
 print("=== Team Calculator: Version A ===")
 
 def divide(a, b):

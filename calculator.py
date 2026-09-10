@@ -20,6 +20,8 @@ def calculate():
     print("Subtraction: 5 - 3 =", subtract(5, 3))
     print("Multiplication: 5 * 3 =", multiply(5, 3))
     print(">>> Super Calculator: Version B <<<")
+print ("Learning the round 3")
+
 
 if __name__ == "__main__":
     calculate()
